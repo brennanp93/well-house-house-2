@@ -78,8 +78,9 @@ hr {
 #coming-soon {
   grid-row: 2/3;
   text-align: center;
-  position: fixed;
-  width: 100%;}
+  /* position: fixed;
+  width: 100%; */
+}
   /* top: -15%;
   left: 0%;
   transition: transform .5s linear;
