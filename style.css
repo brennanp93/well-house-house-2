@@ -68,6 +68,7 @@ hr {
 
 .logo {
   height: 100%;
+  transition: transform 3.5s linear;
 }
 
 .logo:hover {
