@@ -72,6 +72,7 @@ hr {
 .logo {
   height: 100%;
   transition: transform 3.5s linear;
+  margin-bottom: 2%;
 }
 
 .logo:hover {
@@ -96,3 +97,7 @@ hr {
   }
 
 }
+
+/* @media (min-width: 1700) {
+
+} */
